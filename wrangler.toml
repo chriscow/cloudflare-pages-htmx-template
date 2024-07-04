@@ -1,0 +1,8 @@
+name = "hello-world-pages"
+compatibility_date = "2024-07-01"
+pages_build_output_dir="./public"
+
+kv_namespaces = [
+  { binding = "KV", id = "1186ca849b044231ac74da6baab0d213" }
+]
+
